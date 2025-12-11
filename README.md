@@ -49,12 +49,7 @@ Landing page 1/
 - Safari
 - Edge
 
-## Customization
 
-- Update colors in `style.css` (primary: #FA7436)
-- Replace images in `/assets` folder
-- Modify content in `index.html`
-- Adjust responsive breakpoints as needed
 
 ## License
 
